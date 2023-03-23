@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sl1"
+        android:title="SL1"
+        android:icon="@drawable/ic_filter_1_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+    <item
+        android:id="@+id/sl2"
+        android:title="SL2"
+        android:icon="@drawable/ic_filter_2_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+    <item
+        android:id="@+id/sl3"
+        android:title="SL3"
+        android:icon="@drawable/ic_filter_3_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+    <item
+        android:id="@+id/sl4"
+        android:title="SL4"
+        android:icon="@drawable/ic_filter_4_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+    <item
+        android:id="@+id/sl5"
+        android:title="SL5"
+        android:icon="@drawable/ic_filter_5_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+</menu>

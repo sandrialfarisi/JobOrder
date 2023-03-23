@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#44e6c6</color>
+    <color name="colorPrimaryDark">#44e6c6</color>
+    <color name="colorAccent">#44e6c6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bottomnavbar">#141932</color>
+    <color name="colorLightGrey">#D3D3D3</color>
+    <color name="placeholder_bg">#dddddd</color>
+    
+    <color name="bg1_start">#F56BD2</color>
+    <color name="bg1_end">#A20BBD</color>
+    <color name="bg2_start">#F0A12C</color>
+    <color name="bg2_end">#F06406</color>
+    
+    <color name="bg3_start">#E98F0B</color>
+    <color name="bg3_end">#F8CA40</color>
+    <color name="bg4_start">#EBF39B73</color>
+    <color name="bg4_end">#F38524</color>
+
+    <color name="bg5_start">#C11CDD</color>
+    <color name="bg5_end">#526AEE</color>
+    <color name="bg6_start">#3EC2FA</color>
+    <color name="bg6_end">#526AEE</color>
+</resources>

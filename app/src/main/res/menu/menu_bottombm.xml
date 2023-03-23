@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bm1"
+        android:title="BM1"
+        android:icon="@drawable/ic_filter_1_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+    <item
+        android:id="@+id/bm2"
+        android:title="BM2"
+        android:icon="@drawable/ic_filter_2_white_24dp"
+        app:cnb_backgroundColor="#FF785b"
+        app:cnb_iconColor="@color/white"
+        app:cnb_textColor="@color/white"/>
+
+
+</menu>
